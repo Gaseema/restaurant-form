@@ -522,5 +522,6 @@ Not advised to edit stuff below this line
 	position: relative;
 	float: left;
 }
-
+div.checker input {
+  opacity: 0;
 
