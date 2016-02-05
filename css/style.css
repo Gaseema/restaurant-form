@@ -528,3 +528,4 @@ div.checker input {
 }
 div.checker span {
 	display: block;
+	float: left;
