@@ -516,5 +516,11 @@ Not advised to edit stuff below this line
 	position: absolute;
 	opacity: 0;
 }
+/* checker */
+
+ div.checker {
+	position: relative;
+	float: left;
+}
 
 
