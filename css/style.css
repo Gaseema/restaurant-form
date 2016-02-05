@@ -526,4 +526,5 @@ div.checker input {
   opacity: 0;
    display: inline-block;
 }
-
+div.checker span {
+	display: block;
