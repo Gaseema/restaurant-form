@@ -551,3 +551,10 @@ div.radio span {
   text-align: center;
   display: inline-block;
 }	
+/* uploader */
+
+div.uploader {
+  position: relative;
+  float: left;
+  overflow: hidden;
+}
