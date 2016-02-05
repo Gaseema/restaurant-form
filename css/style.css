@@ -535,3 +535,9 @@ div.checker input {
   opacity: 0;
   display: inline-block;
 }
+/* radio */
+
+div.radio {
+	position: relative;
+	float: left;
+}
