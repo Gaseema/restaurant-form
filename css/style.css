@@ -546,4 +546,8 @@ div.radio span {
 	float: left;
 	overflow: hidden;
 }
-	
+ div.radio input {
+  opacity: 0;
+  text-align: center;
+  display: inline-block;
+}	
