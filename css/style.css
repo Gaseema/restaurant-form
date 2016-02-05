@@ -558,3 +558,11 @@ div.uploader {
   float: left;
   overflow: hidden;
 }
+div.uploader span.action {
+  float: left;
+  display: inline;
+  margin:1px 0px;
+  overflow: hidden;
+  cursor: pointer;
+  padding:3px 0px;
+}
