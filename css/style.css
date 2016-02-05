@@ -543,4 +543,5 @@ div.radio {
 }
 div.radio span {
 	display: block;
+	float: left;
 	
