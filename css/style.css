@@ -524,4 +524,6 @@ Not advised to edit stuff below this line
 }
 div.checker input {
   opacity: 0;
+   display: inline-block;
+}
 
